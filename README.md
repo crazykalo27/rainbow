@@ -1,7 +1,5 @@
 #RAINBOW
 
-its gonna look really cool
+Flashes your screen with alternating extremely bright colors
 
-you can say you made it yourself
-
-uhh dont have a seizure
+SEIZURE WARNING / BRIGHT COLORS WARNING / 
